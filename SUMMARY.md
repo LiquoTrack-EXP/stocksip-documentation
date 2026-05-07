@@ -93,7 +93,7 @@
   * [5.2.3. Implemented Frontend-Web Application Evidence](docs/chapter-06-product-implementation/6.2-mobile-apps-implementation/6.2.1-sprint-1/6.2.1.3-development-evidence.md)
   * [5.2.4. Acuerdo de Servicio - SaaS](docs/chapter-06-product-implementation/6.2-mobile-apps-implementation/6.2.1-sprint-1/6.2.1.6-services-docs-evidence.md)
   * [5.2.5. Implemented Native-Mobile Application Evidence](docs/chapter-06-product-implementation/6.2-mobile-apps-implementation/6.2.1-sprint-1/6.2.1.3-development-evidence.md)
-  * [5.2.6. Implemented RESTful API and/or Serverless Backend Evidence](docs/chapter-06-product-implementation/6.2-mobile-apps-implementation/6.2.1-sprint-1/6.2.1.3-development-evidence.md)
+  * [5.2.6. Implemented RESTful API and/or Serverless Backend Evidence](docs/chapter-05)
   * [5.2.7. RESTful API documentation](docs/chapter-06-product-implementation/6.2-mobile-apps-implementation/6.2.1-sprint-1/6.2.1.6-services-docs-evidence.md)
   * [5.2.8. Team Collaboration Insights](docs/chapter-06-product-implementation/6.2-mobile-apps-implementation/6.2.1-sprint-1/6.2.1.8-team-collab-insights.md)
 * [5.3. Video About-the-Product](docs/chapter-07-conclusions/7.4-video-about-the-product.md)
